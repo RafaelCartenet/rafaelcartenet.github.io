@@ -1,6 +1,5 @@
 ---
 title: "About"
-layout: splash
 permalink: /about/
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -13,6 +12,7 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 last_modified_at: 2018-04-10T08:41:35-04:00
+toc: true
 ---
 
-I am a junior Machine Learning R&D Engineer
+I am a junior Machine Learning R&D Engineer from France
