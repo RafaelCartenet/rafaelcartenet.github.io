@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Rafael Cartenet"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Machine Learning R&D Engineer Portfolio."
   location         : "Paris - France"
   email            :
