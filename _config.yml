@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "Rafael Cartenet"
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning R&D Engineer Portfolio."
+  bio              : "Machine Learning R&D Engineer."
   location         : "Paris - France"
-  email            :
+  email            : "rafael.cartenet@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
