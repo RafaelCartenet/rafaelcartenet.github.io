@@ -1,11 +1,6 @@
 ---
 title: "Portfolio"
 permalink: /portfolio/
+author_profile: true
+layout: archive
 ---
-
-# PROJECT 1
-
-
-
-
-# PROJECT 2
