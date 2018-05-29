@@ -102,8 +102,9 @@ analytics:
 author:
   name             : "Rafael Cartenet"
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "23yo., french
-  Machine Learning R&D Engineer"
+  bio              : |
+                     "23yo., french"
+                     "Machine Learning R&D Engineer"
   location         : "Paris - France"
   email            : "rafael.cartenet@gmail.com"
   uri              :
