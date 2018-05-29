@@ -1,11 +1,8 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: true
+layout: archive
 ---
 
-yoyoyoyoyo
-
-
-
-
-# PROJECT 2
+Hello, it's me
