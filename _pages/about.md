@@ -24,7 +24,15 @@ I studied abroad for a year in the top university of KAIST in South-Korea, where
 ## Programming Skills
 
 Proficient with: **Python, Tensorflow, Scikit-Learn, Torch7, C, Matlab, MongoDB, SQL, bash, Git.**
+
 Familiar with: **Java, C++**
+
+## Languages
+
+English: Proficient
+French: Proficient
+Spannish: 
+Mandarin: Basics
 
 ## Contact me
 
