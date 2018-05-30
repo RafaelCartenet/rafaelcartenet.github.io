@@ -5,13 +5,13 @@ author_profile: true
 layout: archive
 ---
 
-Hello, I am Rafael Cartenet from Normandy France, currently working for [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a Machine-Learning R&D Engineer, since June 2018.
+Hello, I am Rafael Cartenet from Normandy France, currently working for [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a **Machine-Learning R&D Engineer**, since June 2018.
 
-As a problem-solving enthusiast, I am always eager to meet new technical challenges. 
+As a problem-solving enthusiast, I am always eager to meet new technical challenges.
 
 ---
 
-# My history
+## My history
 
 I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in **Applied Mathematics** and **Computer Science**.
 
@@ -20,3 +20,12 @@ I completed my end-of-study internship in Shanghai China between August 2017 and
 I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in **Machine-Learning**. I completed my initial background with skills in **Deep-Learning**, NLP, Computer Vision as well as Search-Based Algorithms.
 
 ---
+
+## Programming Skills
+
+Proficient with: **Python, Tensorflow, Scikit-Learn, Torch7, C, Matlab, MongoDB, SQL, bash, Git.**
+Familiar with: **Java, C++**
+
+## Contact me
+
+For any inquires, you can reach me via email: **_rafael.cartenet@gmail.com_**
