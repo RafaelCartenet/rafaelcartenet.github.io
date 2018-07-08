@@ -9,76 +9,76 @@ This is a bash cheatsheet I created when I got my hands on server remote control
 
 ## GPU related
 
-**Find out the models of the GPUs**
+Find out the models of the GPUs
 ```sh
 $ lspci | grep -i --color 'vga\|3d\|2d'
 ```
 
-**Get GPUs status**
+Get GPUs status
 ```sh
 $ nvidia-smi
 ```
 
-**htop:**
+htop:
 ```sh
 $ htop
 ```
 
 ## Processes handling
 
-**Check the processes running**
+Check the processes running
 ```sh
-ps aux | grep X (example: ps aux | grep apt)
+$ ps aux | grep X (example: ps aux | grep apt)
 ```
 
-**Kill a process using its PID**
+Kill a process using its PID
 ```sh
 $ kill -9 PID
 ```
 
 ## Remote control
 
-**Copy from local to ssh, from ssh to local**
+Copy from local to ssh, from ssh to local
 ```sh
 $ scp (-r) chemin/fichier login@serveur:chemin
 $ scp (-r) login@serveur:chemin/file chemin/
 ```
 
-**Atom Remote, open distant folder on Atom**
+Atom Remote, open distant folder on Atom
 ```sh
 $ ssh -R 52698:localhost:52698 rafaelcartenet@143.248.39.104
 ```
 
-**Download content from the given url**
+Download content from the given url
 ```sh
 $ wget URL
 ```
 
-**History of all different ssh commands used**
+History of all different ssh commands used
 ```sh
 $ history | grep ssh
 ```
 
-**Call command ID**
+Call command ID
 ```sh
 $ !idcommand
 ```
 
 ## Unzip
 
-**Unzip tar files**
+Unzip tar files
 ```sh
 $ tar -xvf file.tar
 ```
 
-**Unzip tar.gz files**
+Unzip tar.gz files
 ```sh
 $ tar zxvf file.tar.gz
 ```
 
 # Other
 
-**Number of files in a repository/file**
+Number of files in a repository/file
 ```sh
 $ ls -1 | wc -l
 $ wc -l <filename>
