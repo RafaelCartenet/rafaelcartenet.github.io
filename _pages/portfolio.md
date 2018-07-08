@@ -8,7 +8,6 @@ You will find below the different projects I realised or participated in the las
 
 1. **MCQBot**
 
-    author_profile: true
     MCQBot, or Multiple Choice Questions Bot is a simple NLP project I realized in June 2018. The idea is pretty simple, given a question and a set of answers, make a bot that can gives a confidence score to each choice in order to reply to the question. Number of choices is not fixed.
 
     Current method is pretty simple, n-grams occurrences-based, from google search content, but working quite efficiently. You can find the code on my github [here](https://github.com/RafaelCartenet/MCQbot)
