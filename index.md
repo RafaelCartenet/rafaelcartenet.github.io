@@ -1,14 +1,14 @@
 ---
-title: 'Machine-Learning Engineer'
+title: 'Rafael Cartenet'
 layout: single
 author_profile: true
-excerpt: "Hello"
+excerpt: 'Machine-Learning Engineer'
 header:
   overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-Hello, I am Rafael, from Normandy France, currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a **Machine-Learning R&D Engineer**, since June 2018.
+Hi, I'm Rafael, currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a **Machine-Learning R&D Engineer**, since June 2018.
 
 As a problem-solving enthusiast, I am always eager to meet new technical challenges, where I can apply my different skills, from mathematics to advanced algorithms.
 
