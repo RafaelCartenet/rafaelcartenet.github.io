@@ -3,9 +3,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "About"
-    url: /about/
-  - title: "Recent Posts"
-    url: /recent_posts/
+    url: https://rafaelcartenet.github.io
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
