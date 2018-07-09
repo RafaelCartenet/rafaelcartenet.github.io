@@ -10,7 +10,7 @@ header:
 
 # About me
 
-I'm Rafael, currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a **Machine-Learning R&D Engineer**, since June 2018.
+I'm currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a full-time **Machine-Learning R&D Engineer**, since June 2018.
 
 As a problem-solving enthusiast, I am always eager to meet new technical challenges, where I can apply my different skills, from mathematics to advanced algorithms.
 
