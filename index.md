@@ -1,10 +1,17 @@
 ---
+title: 'About me'
 layout: single
 author_profile: true
-title: 'About me'
+excerpt: "This post should [...]"
+header:
+  overlay_image: /images/profile_.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_label: "More Info"
+  cta_url: "https://unsplash.com"
 ---
 
-Hello, I am Rafael Cartenet from Normandy France, currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a **Machine-Learning R&D Engineer**, since June 2018.
+Hello, I am Rafael, from Normandy France, currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a **Machine-Learning R&D Engineer**, since June 2018.
 
 As a problem-solving enthusiast, I am always eager to meet new technical challenges, where I can apply my different skills, from mathematics to advanced algorithms.
 
