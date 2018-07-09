@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+title: 'About me'
 ---
 
 Hello, I am Rafael Cartenet from Normandy France, currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a **Machine-Learning R&D Engineer**, since June 2018.
