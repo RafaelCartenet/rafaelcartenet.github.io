@@ -27,7 +27,7 @@ As a problem-solving enthusiast, I am always eager to meet new technical challen
   During my stay in South-Korea I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence [AIM](http://slsp.kaist.ac.kr/xe/) where I worked on video classification for
 
 - **Rouen, France**
-  I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in **Applied Mathematics** and **Computer Science**.
+  I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
 
 ---
 
