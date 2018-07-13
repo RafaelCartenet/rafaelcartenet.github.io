@@ -46,6 +46,10 @@ Familiar with: **Java, C++**
 | Spanish  | Proficient |
 | Mandarin | Basic  |
 
+## CV
+
+Download my CV: [CV]({{ site.url }}/download/CV.pdf)
+
 
 ## Contact me
 
