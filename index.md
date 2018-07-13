@@ -48,8 +48,8 @@ Familiar with: **Java, C++**
 
 ## CV
 
-Download my CV: [CV]({{ site.url }}/download/CV.pdf)
-
+English version: [CV]({{ site.url }}/download/CV.pdf)
+French version: [CV]({{ site.url }}/download/CV.pdf)
 
 ## Contact me
 
