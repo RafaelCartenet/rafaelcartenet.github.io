@@ -12,7 +12,20 @@ header:
 
 I'm currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a full-time **Machine-Learning R&D Engineer**, since June 2018.
 
+Passionate about Data Science for several years
+In my spare time I enjoy crafting some tools
 As a problem-solving enthusiast, I am always eager to meet new technical challenges, where I can apply my different skills, from mathematics to advanced algorithms.
+
+Data Science
+Advanced algorithms
+ML
+Operations Research
+Problem-Solving
+AI
+Building automations
+Analytical methods
+RnD
+multi fields: geospatial / audio etc.
 
 ---
 
