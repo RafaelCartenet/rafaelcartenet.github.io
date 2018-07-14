@@ -18,7 +18,7 @@ You can find several of them on the internet, depending on your favorite coding 
 
 However, let's face it, most Instagram Automation scripts available over the internet are really often pretty simple, and are not as effective as you would expect. This said, if you're still thinking about getting into botting, you have two options:
 
-- Use some premade scripts that would do the job for you, select the proposed features you want and accept the results.
+- Use some pre-made scripts that would do the job for you, select the proposed features you want and accept the results.
 - Or make your own scripts to do the tasks you want, specific strategies that you imagined etc. That implies of course that you are able to code, and that you have time to spend on building it.
 
 # My advise to get into Instagram Botting

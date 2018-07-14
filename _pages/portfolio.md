@@ -8,22 +8,23 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+## Machine-Learning
 
-2. **STMVN Normalization**
+- **BLSTM Segmentation Model**: SOON
+- **Attention Gated LSTM**: SOON
+- **LSTM Classification Model:** SOON
+- [**Sentimental Analysis GNB model**](https://github.com/RafaelCartenet/GaussianNBSentimentalAnalysis):
+- [**OCR for bank cheques CMC7 codes**](https://github.com/RafaelCartenet/OCR-CMC7):
+- [**AlexNet Image Classification**](https://github.com/RafaelCartenet/AlexNetClassification):
 
-    lalalala
+## Advanced algorithms
 
-* STMVN MFCC Normalization
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+- [**Optimized STMVN**](https://github.com/RafaelCartenet/MFCC_STMVN): Optimized normalization technique
+- [**Sequences Matcher**](https://github.com/RafaelCartenet/SequenceMatcher): Dynamic Programming based
+- [**Monte Carlo Tree Search applied to Alpha-Go**](https://github.com/RafaelCartenet/MonteCarloTreeSearchAlphaGo):
+- [**Advanced algorithms implementation**](https://github.com/RafaelCartenet/Advanced-Algorithms): Dynamic Programming, Graph Theory
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-* Attention Gated LSTM
+## Competitive Programming
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+- [**Codingame solutions**](https://github.com/RafaelCartenet/Codingame):

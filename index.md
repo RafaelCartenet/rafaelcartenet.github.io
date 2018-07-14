@@ -27,6 +27,8 @@ Analytical methods
 RnD
 multi fields: geospatial / audio etc.
 
+You can check about my different projects on my [portfolio](https://rafaelcartenet.github.io/portfolio/)
+
 ---
 
 ## My history
