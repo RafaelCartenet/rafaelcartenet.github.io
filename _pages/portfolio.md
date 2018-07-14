@@ -8,16 +8,17 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-## Machine-Learning
+## Machine-Learning / AI
 
 - **BLSTM Segmentation Model**: SOON
 - **Attention Gated LSTM**: SOON
 - **LSTM Classification Model:** SOON
 - [**Sentimental Analysis GNB model**](https://github.com/RafaelCartenet/GaussianNBSentimentalAnalysis):
 - [**OCR for bank cheques CMC7 codes**](https://github.com/RafaelCartenet/OCR-CMC7):
+- [**Occurrences-based MCQ Bot**](https://github.com/RafaelCartenet/MCQbot): Simple yet effective method to reply to Multiple Choice Questions.
 - [**AlexNet Image Classification**](https://github.com/RafaelCartenet/AlexNetClassification):
 
-## Advanced algorithms
+## Advanced Algorithms
 
 - [**Optimized STMVN**](https://github.com/RafaelCartenet/MFCC_STMVN): Optimized normalization technique
 - [**Sequences Matcher**](https://github.com/RafaelCartenet/SequenceMatcher): Dynamic Programming based
