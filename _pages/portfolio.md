@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /recent_posts/
+permalink: /portfolio/
 author_profile: true
 ---
 
