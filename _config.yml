@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" #, "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rafael Cartenet"
+title                    : "Portfolio"
 title_separator          : "|"
 name                     : "Rafael Cartenet"
 description              : "Machine Learning R&D Engineer Portfolio"
