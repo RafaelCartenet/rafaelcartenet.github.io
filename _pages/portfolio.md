@@ -9,6 +9,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+You will find below a non-exhaustive list of the different projects I realized during the last years, as well as a link to the code each time.
+
 ## Machine-Learning / AI
 
 - [**BLSTM Segmentation Model**](https://github.com/RafaelCartenet/BLSTMsegmentation): Sequential segmentation model, using BLSTM, implemented with TensorFlow.
