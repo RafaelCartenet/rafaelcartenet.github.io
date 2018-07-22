@@ -13,7 +13,7 @@ header:
 
 - [**BLSTM Segmentation Model**](https://github.com/RafaelCartenet/BLSTMsegmentation): Sequential segmentation model, using BLSTM, implemented with TensorFlow.
 - [**Attention Gated LSTM**](https://github.com/RafaelCartenet/AttentionGatedLSTM): Implementation of an Attention Gated Model, for Youtube8m classification challenge.
-- [**LSTM Classification Model:**](https://github.com/RafaelCartenet/LSTMsequence-classifier): Classification model, using LSTM, for sequential data of various length, "last frame" prediction, implemented with TensorFlow.
+- [**LSTM Classification Model**](https://github.com/RafaelCartenet/LSTMsequence-classifier): Classification model, using LSTM, for sequential data of various length, "last frame" prediction, implemented with TensorFlow.
 - [**Sentimental Analysis GNB model**](https://github.com/RafaelCartenet/GaussianNBSentimentalAnalysis): Sentimental Analysis of IMDB movie reviews using Gaussian Naive Bayes model for binary classification.
 - [**OCR for bank cheques CMC7 codes**](https://github.com/RafaelCartenet/OCR-CMC7): My simple approach for bank cheques' CMC7 code extraction using SVM.
 - [**Occurrences-based MCQ Bot**](https://github.com/RafaelCartenet/MCQbot): Simple yet effective method to reply to Multiple Choice Questions.
