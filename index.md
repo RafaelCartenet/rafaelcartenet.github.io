@@ -59,8 +59,9 @@ Familiar with: **Java, C++**
 
 ## CV
 
-English version: [CV]({{ site.url }}/download/CV_english.pdf)  
-French version: [CV]({{ site.url }}/download/CV_french.pdf)
+Find attached the PDF version of my CVs:  
+*English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
+*French version*: [CV]({{ site.url }}/download/CV_french.pdf)
 
 ## Contact me
 
