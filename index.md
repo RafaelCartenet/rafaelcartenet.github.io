@@ -72,4 +72,4 @@ French version: [CV]({{ site.url }}/download/CV_french.pdf)
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_rafael.cartenet@gmail.com_**
+For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
