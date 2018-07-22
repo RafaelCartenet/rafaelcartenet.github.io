@@ -31,7 +31,11 @@ You can check about my different projects on my [portfolio](https://rafaelcarten
 
 ---
 
-## My history
+## My previous experiences
+
+
+
+## My education
 
 - **Shanghai, China**:
   I completed my end-of-study internship in Shanghai between August 2017 and February 2018, as a Machine Learning R&D Engineer for a sino-french startup called Mediasia-Labs. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
@@ -63,8 +67,8 @@ Familiar with: **Java, C++**
 
 ## CV
 
-English version: [CV]({{ site.url }}/download/CV.pdf)
-French version: [CV]({{ site.url }}/download/CV.pdf)
+English version: [CV]({{ site.url }}/download/CV_english.pdf)  
+French version: [CV]({{ site.url }}/download/CV_french.pdf)
 
 ## Contact me
 
