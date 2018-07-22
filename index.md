@@ -47,7 +47,7 @@ You can check about my different projects on my [portfolio](https://rafaelcarten
 - **Graduate Exchange Program** - Daejeon (South-Korea):  
   I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
 
-- **Rouen, France** - Rouen (France):  
+- **Master Of Engineering** - Rouen (France):  
   I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
 
 ---
