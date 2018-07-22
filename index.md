@@ -34,18 +34,17 @@ You can check about my different projects on my [portfolio](https://rafaelcarten
 ## Work experiences
 
 - **Machine Learning R&D Engineer - Shanghai**:  
-  _2019_  
-  dede  
-  ded
+  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **Mediasia-Labs**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
 
 - **Research Assistant - Daejon**:  
-  _2019_  
-  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence [AIM](http://slsp.kaist.ac.kr/xe/) where I worked on video classification for the CVPR2017 workshop
+  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence [AIM](http://slsp.kaist.ac.kr/xe/) where I worked on video classification for the CVPR2017 workshop, especially working on Attention Gated LSTM Cell, in TensorFlow.
+
+- 
 
 ## Education
 
 - **Shanghai, China**:
-  I completed my end-of-study internship in Shanghai between August 2017 and February 2018, as a Machine Learning R&D Engineer for a sino-french startup called Mediasia-Labs. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
+
 
 - **Daejon, South Korea**:
   I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
