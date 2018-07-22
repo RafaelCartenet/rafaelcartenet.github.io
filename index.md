@@ -33,11 +33,14 @@ You can check about my different projects on my [portfolio](https://rafaelcarten
 
 ## Work experiences
 
-- **Machine Learning R&D Engineer - Shanghai**:
+- **Machine Learning R&D Engineer - Shanghai**:  
+  _2019_  
   dede  
   ded
 
-
+- **Research Assistant - Daejon**:  
+  _2019_  
+  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence [AIM](http://slsp.kaist.ac.kr/xe/) where I worked on video classification for the CVPR2017 workshop
 
 ## Education
 
@@ -47,7 +50,7 @@ You can check about my different projects on my [portfolio](https://rafaelcarten
 - **Daejon, South Korea**:
   I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
 
-  During my stay in South-Korea I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence [AIM](http://slsp.kaist.ac.kr/xe/) where I worked on video classification for
+  During my stay in South-Korea
 
 - **Rouen, France**:
   I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
