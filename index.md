@@ -21,8 +21,6 @@ As an R&D Engineer, I love to put forward my technical and analytical skills, ta
 
 You can check about my different projects on my [portfolio](https://rafaelcartenet.github.io/portfolio/)
 
----
-
 ## Work experiences
 
 - **Machine Learning R&D Engineer** - Shanghai:  
@@ -32,7 +30,7 @@ You can check about my different projects on my [portfolio](https://rafaelcarten
   I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
 
 - **Software Engineer Intern** - Paris:  
-  I have been an intern at [Aerow](https://www.aerow.group/en/home/) in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques
+  I have been an intern at [Aerow](https://www.aerow.group/en/home/) in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques.
 
 ## Education
 

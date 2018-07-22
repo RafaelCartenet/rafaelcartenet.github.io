@@ -30,9 +30,9 @@ I will first talk about the legal aspects regarding Instagram Botting.
 
 On the Instagram's **Terms of Use** you can read:
 
-```
-We prohibit crawling, scraping, caching or otherwise accessing any content on the Service via automated means, including but not limited to, user profiles and photos (except as may be the result of standard search engine protocols or technologies used by a search engine with Instagram's express consent).
-```
+
+> We prohibit crawling, scraping, caching or otherwise accessing any content on the Service via automated means, including but not limited to, user profiles and photos (except as may be the result of standard search engine protocols or technologies used by a search engine with Instagram's express consent).
+
 
 **It is well known and written everywhere, automating Instagram is prohibited.** We all experienced accounts interacting with us with weird comments, sometimes completely neutral, sometimes completely out of context regarding your post.
 Nevertheless, you are not gonna go to jail if you've been using an automation tool on your account, neither get fined. **The only drama that can happen to you is that your account can get deleted.**
