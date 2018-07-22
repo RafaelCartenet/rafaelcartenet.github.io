@@ -34,12 +34,13 @@ You can check about my different projects on my [portfolio](https://rafaelcarten
 ## Work experiences
 
 - **Machine Learning R&D Engineer - Shanghai**:  
-  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **Mediasia-Labs**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
+  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
 
 - **Research Assistant - Daejon**:  
-  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence [AIM](http://slsp.kaist.ac.kr/xe/) where I worked on video classification for the CVPR2017 workshop, especially working on Attention Gated LSTM Cell, in TensorFlow.
+  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on Attention Gated LSTM Cell, in TensorFlow.
 
-- 
+- **Software Engineer Intern - Paris**:  
+  [Aerow](https://www.aerow.group/en/home/)
 
 ## Education
 
