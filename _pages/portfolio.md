@@ -29,4 +29,4 @@ header:
 
 ## Competitive Programming
 
-- [**Codingame solutions**](https://github.com/RafaelCartenet/Codingame):
+- [**Codingame solutions**](https://github.com/RafaelCartenet/Codingame): My different solutions for the Codingame platform. https://www.codingame.com/
