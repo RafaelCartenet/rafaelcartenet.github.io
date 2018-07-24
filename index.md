@@ -15,7 +15,7 @@ I'm currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris
 ---
 
 
-*As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new stuff and feed my curiosity.  
+*As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
 I got myself into Data Science early in my education and had the chance to get my hands on all kinds types of data, from sequential to spatial, images, audio signals etc.  
 As an R&D Engineer, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
 
