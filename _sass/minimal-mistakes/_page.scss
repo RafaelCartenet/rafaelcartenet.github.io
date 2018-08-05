@@ -22,15 +22,20 @@
 
 .page {
   @include breakpoint($large) {
+    width: 83.05085%;
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
-  }
+    margin-right: 0;
+    padding-left: 4.23729%;
+    padding-right: 16.94915%;
+}
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
-  }
+    width: 83.05085%;
+    float: right;
+    margin-right: 0;
+    padding-left: 4.23729%;
+    padding-right: 16.94915%;
+}
 
   .page__inner-wrap {
     float: left;
