@@ -28,12 +28,9 @@
   }
 
   @include breakpoint($x-large) {
-    width: 83.05085%;
-    float: right;
-    margin-right: 0;
-    padding-left: 4.23729%;
-    padding-right: 16.94915%;
-}
+    width: calc(100% - #{$right-sidebar-width});
+    padding-right: $right-sidebar-width;
+  }
 
   .page__inner-wrap {
     float: left;
