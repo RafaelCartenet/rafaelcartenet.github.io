@@ -143,7 +143,7 @@ $right-sidebar-width: 300px !default;
 $right-sidebar-width-wide: 400px !default;
 
 $susy: (
-  columns: repeat(12),
+  columns: susy-repeat(12),
   // column-width: 90px,
   gutters: 1/4,
   math: fluid,
