@@ -19,7 +19,7 @@ I have been "botting around" on Instagram for more than a year now. The goal of 
 I made my own custom bot based on a pretty efficient API-wrapper, called [instabot](https://github.com/instagrambot/instabot).
 You can find several of them on the internet, depending on your favorite coding language etc. These APIs (or wrappers) often also provide some scripts in order to demo their API's key features. These repositories sometimes even provide a script that would run 24h and automate basic actions, such as liking celebrities' followers, unfollowing your non-followers followings etc.
 
-However, let's face it, most Instagram Automation scripts available over the internet are really often pretty simple, and are not as effective as you would expect. This said, if you're still thinking about getting into botting, you have two options:
+However, let's face it, most Instagram Automation scripts available over the internet are often pretty simple, and are not as effective as you would expect. This said, if you're still thinking about getting into botting, you have two options:
 
 - Use some pre-made scripts that would do the job for you, select the proposed features you want and accept the results.
 - Or make your own scripts to do the tasks you want, specific strategies that you imagined etc. That implies of course that you are able to code, and that you have time to spend on building it.
@@ -47,13 +47,13 @@ Indeed, bots generate audience, and sometimes even content, why would they prohi
 
 # My advise to get into Instagram Botting
 
-I wont share any code here, this is not the goal. I am just sharing the principles I based my code on. I have been improving my robot a lot, on many different aspects and that's what made it interesting. Making such robot implies different skills and more thinking that you would initially think ...
+I wont share any code here, this is not the goal. I am just sharing the principles I based my code on. I have been improving my robot a lot, on many different aspects and that's what made the whole adventure interesting. Making such robot implies different skills and more thinking that you would initially think ...
 
 The key features you want your bot to have are:
-- Easy monitoring
-- Efficient actions
-- Low risk strategy
-- Steady process, that can run over days
+- **Easy monitoring**
+- **Efficient actions**
+- **Low risk strategy**
+- **Steady process**
 
 ## Easy Monitoring
 
