@@ -3,6 +3,9 @@ layout: single
 title:  "Instagram Botting"
 date:   2018-05-23 12:00:00 -0600
 author_profile: true
+header:
+  overlay_image: /images/paris.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 My experience about Instagram Automation, or "Botting".

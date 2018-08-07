@@ -3,6 +3,9 @@ layout: single
 title:  "Bash Cheatsheet"
 date:   2017-06-15 20:16:01 -0600
 author_profile: true
+header:
+  overlay_image: /images/paris.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 This is a bash cheatsheet I created when I got my hands on server remote control, process handling etc.
