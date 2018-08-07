@@ -1,8 +1,9 @@
 ---
 layout: single
-title:  "Bash Cheatsheet"
+title:  "Bash"
 date:   2017-06-15 20:16:01 -0600
 author_profile: true
+excerpt: 'Cheatsheet'
 header:
   overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
