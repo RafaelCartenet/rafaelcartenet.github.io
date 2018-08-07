@@ -10,7 +10,7 @@ header:
 
 
 
-![](images/Apache_Spark_logo.png)
+<img src="images/Apache_Spark_logo.png" alt="hi" class="inline"/>
 
 This is a simple spark cheatsheet I made when I learnt to use it for some Extract-Transform-Load operations.
 
