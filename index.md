@@ -44,9 +44,9 @@ You can check about my different projects on my [portfolio](https://rafaelcarten
 
 ## Programming Skills
 
-Proficient with: **Python, Tensorflow, Scikit-Learn, C/C++, Apache Spark, Torch7, Matlab, MongoDB, SQL, bash, Git.**
+Proficient with: **Python, C/C++, Tensorflow, Apache Spark, Torch7, Scikit-Learn, Matlab, MongoDB, SQL, bash, Git.**
 
-Familiar with: **Java,
+Familiar with: **Java**
 
 ## Languages
 
