@@ -1,0 +1,23 @@
+---
+layout: single
+title:  "AlphaStar, the new success story of DeepMind"
+date:   2019-01-26 12:00:00 -0600
+author_profile: true
+excerpt: 'Article'
+header:
+  overlay_image: /images/paris.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+---
+
+<img src="/images/alphastar-apm.gif" alt="Starcraft 2 pro player APM" class="inline"/>
+
+STMVN, or 'Short-Time Mean Variance Normalization' is a normalization technique for sequential data, introduced in this [paper](https://www.crim.ca/perso/patrick.kenny/Jahangir_nolisp2011_16_final.pdf).
+I implemented this technique in January 2018 and found a way to optimize it, regarding algorithmic efficiency
+
+The idea is pretty simple, rather than doing normalization over the whole dataset, that is often practically complicated, the paper introduces a **short-time** window to consider for normalization. Rather than computing the average and variance of the whole dataset and use it to normalize every single new frame, the normalized frame is computed using its neighbors' mean and variance.
+
+It theoretically seems pretty efficient, but there is one issue (not mentioned in the paper), which is that regarding algorithmic efficiency, it is pretty heavy. Indeed, when classic normalization techniques compute the mean and variance over the dataset **only once** to normalize then the whole dataset, this method computes mean and variances of neighbors frame when normalizing every single frame.
+
+After trying that normalization on my project at that time, I realized it gave me interesting results, promising compared to classic normalizations. But as expected, the running time exploded. I thus spent time on trying to find a way to reduce algorithmic complexity of this method.
+
+You will find the code as well as the maths explained on my github, [here](https://github.com/RafaelCartenet/MFCC_STMVN).
