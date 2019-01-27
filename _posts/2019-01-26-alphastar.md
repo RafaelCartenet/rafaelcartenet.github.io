@@ -3,15 +3,10 @@ layout: single
 title:  "AlphaStar, DeepMind's new success story"
 date:   2019-01-26 12:00:00 -0600
 author_profile: true
-<!-- excerpt: 'Article' -->
 excerpt_separator: "<!--more-->"
 header:
   overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-tags:
-  - AI
-  - Reinforcement Learning
-  - Gaming
 ---
 
 **They did it!** DeepMind, the successful inventors of AlphaGo, the AI that bit the professional korean player Lee Sedol, just released a new amazing AI agent: AlphaStar, for the well-known strategy game Starcraft 2, created by Blizzard.
