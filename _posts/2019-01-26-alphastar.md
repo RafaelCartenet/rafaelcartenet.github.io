@@ -23,9 +23,9 @@ Players develop strong problem solving skills when mastering the game. Every dec
 
 By "Solving games" I mean making an AI better than any human player. The first impressive AI agent that could beat pro players was [DeepBlue](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)), a Chess AI that defeated Kasparov, the at-the-time world champion. DeepMind started with simple games, including [Atari Games](https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning/), the [Go Game](https://deepmind.com/research/alphago/) with the recent new ultimate version [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/), and now **Starcraft 2, known as one of the most difficult strategy game**
 The order of these developments is really important. Indeed, games that got 'solved' by AI became more and more complex. By complex we mean that the set of possible actions became wider and wider, making the search of the best move nearly impossible.
-The number of possible boards in the chess game is not that huge. However, the number of possible boards in Go is insanely high.
+The number of possible boards in the chess game is not that huge. However, the number of possible boards in Go is insanely high. In Starcraft 2, the of possible states is hardly even computable. Indeed, the map, could be considered as a board where each cell would be a pixel where a unit could be standing, which makes it unfeasible to compute.
 
-<img src="/images/alphastar-diff.png" alt="Starcraft 2 pro player APM" class="inline"/>
+The other key difference between those previous games and Starcraft 2 is that the information a player get is different. For board games we call the information type **perfect**, meaning that at a given state, you have perfect information regarding what your opponent is doing, you can always look at your opponent's side of the board right. In Starcraft 2, information is most of the time hidden.  
 
 {% capture fig_img %}
 ![Foo]({{ '/images/alphastar-diff.png' | relative_url }})
@@ -36,7 +36,7 @@ The number of possible boards in the chess game is not that huge. However, the n
   <figcaption>Complexity differences between Atari, Go and finally Stracraft 2.</figcaption>
 </figure>
 
-That said, you will understand why solving the Go Game was harder than solve Chess Game, and why solving the Stracraft 2 game, is even harder.
+That said, you will understand why solving the Go Game was harder than solving Chess Game, and why solving the Stracraft 2 game, is even harder.
 
 # But how ?
 
