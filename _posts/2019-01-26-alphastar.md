@@ -26,7 +26,7 @@ The number of possible boards in the chess game is not that huge. However, the n
 <img src="/images/alphastar-diff.png" alt="Starcraft 2 pro player APM" class="inline"/>
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/alphastar-diff.png' | relative_url }})
+![Foo]({{ '/images/alphastar-diff.png' | relative_url }})
 {% endcapture %}
 
 <figure>
