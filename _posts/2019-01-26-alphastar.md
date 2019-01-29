@@ -13,12 +13,12 @@ header:
 
 <!--more-->
 
-As a huge fan of DeepMind for what they've achieved so far and an ex amateur player of the game, I followed these events meticulously, and I must say I got completely amazed by this "prototype" they just revealed on January 24th. The goal of this article is to give a simple yet decent analysis about what's the hype is all about around AlphaStar. I might express subjectives ideas at some points but will try to be as objective as possible, feel free to make your opinion about it and to let me know if I made any mistakes.
+As a huge fan of DeepMind for what they've achieved so far and an ex amateur player of the game, I followed these events meticulously, and I must say I got completely amazed by this "prototype" they just revealed on January 24th. The goal of this article is to give a simple yet decent analysis about what's the hype is all about. I might express subjectives ideas at some points but will try to be as objective as possible, feel free to let me know your opinion / comments about it.
 
 # Brief introduction to Starcraft 2
 
 One shall always start by definitions, Starcraft 2 is a RTS game (Real-Time Strategy game), created by Blizzard.
-The goal of the game is pretty simple, collect resources, build units and destroy your opponent, simple as that. It includes three races that you can play, each got its different diverse units and mechanics, leaving the ability to create a huge number of army compositions to defeat your enemy. The game has been published in 2010, and has been since then a really impressive game where players from all over the world have been competing and improving continuously over the years.
+The goal of the game is pretty simple, collect resources, build units and destroy your opponent, simple as that. It includes three races that you can play, each got its different diverse units and mechanics, allowing the players to to create a huge variety of army compositions to defeat your enemy. The game has been published in 2010, and has been since then a really impressive game where players from all over the world have been competing and improving continuously over the years.
 
 What's interesting about Starcraft 2 is that the races have always been pretty balanced, and never ever someone found a strategy that would beat all other strategies. The mind set about the game, often called "meta", is constantly changing, thanks to the community and game's evolutions. For these reasons, in order to be a great player, not only you need to master a set of strategies, but also being able to understand what's your opponent is constantly doing or even thinking.
 
@@ -35,24 +35,24 @@ Starcraft 2 has also been known as the competitve game with the most actions per
 
 # Solving games to achieve AI Milestones
 
-If you are a fan of AI and never heard of DeepMind, you're missing out something. Founded in 2010 by top AI researchers on the planet, they dedicated themselves mainly on a promising field: Reinforcement Learning. As one of the leading companies regarding AI, applying their state of the art methods to various domains including Medical Research or Speech Generation.
+Let's get into it. If you are a fan of AI and never heard of DeepMind, you're missing out something. Founded in 2010 by top AI researchers on the planet, they dedicated themselves mainly on a promising field: Reinforcement Learning. As one of the leading companies regarding AI, they develop and apply state of the art methods to various domains including Medical Research or Speech Generation.
 
 In the history of technology, key steps have been achieved by the invention of new machines, new mechanisms or molecules that scientists would discover. Nowadays, rules have changed a little bit, AI research's milestones are usually achieved thanks to AI agents winning over human players on games, more complicated each time. That might sound weird, but it is actually pretty legit if you think about it.
-Players develop strong problem solving skills when mastering the game. Every decision a human takes in a game (and even in his life) is itself the result of an algorithm, just like Yuval Noah Harari likes to mention in his book [Homo Deus](https://www.ynharari.com/book/homo-deus/). All the decisions we take come from the result of a decision-making process that runs inside our brain. In a simple game like chess, the entire possible actions is quite limited as the board is relatively small, but in your everyday life, the number of actions you can take, is infinite.
+Players develop strong problem solving skills when mastering the game. Every decision a human takes in a game (and even in his life) is itself the result of an algorithm, just like Yuval Noah Harari likes to mention in his book [Homo Deus](https://www.ynharari.com/book/homo-deus/). All the decisions we take come from the result of a decision-making process that runs inside our brain, aiming for a reward in a soon or further future.
+However, in a simple game like chess, the entire possible actions set is quite limited as the board is relatively small, but in your everyday life, the number of actions you can take, is infinite.
 By beating professional gamers using AI, researchers are developing complex algorithms, including neural network architectures, that are able to solve really complex problems. The same algorithms can be sometimes directly used to solve real life issues like medical ones.
 
 
-> **Demis Hassabis** "... While StarCraft is ‘just’ a (very complex!) game, I’m excited that the techniques behind #AlphaStar could be useful in other problems such as weather prediction & climate modeling, which also involve predictions over very long sequences. Peer-reviewed paper is underway.""
+> **Demis Hassabis** (DeepMind CEO): "... While StarCraft is ‘just’ a (very complex!) game, I’m excited that the techniques behind #AlphaStar could be useful in other problems such as weather prediction & climate modeling, which also involve predictions over very long sequences. Peer-reviewed paper is underway.""
 
-Some sceptic people might believe that these geniuses are wasting their time and energy on games and could tackle real world dramatic problems but they are mistaken. Just like a neuro scientist often practice experiments on rats, AI scientists like to practice with games.
+Some sceptic people might believe that these geniuses are wasting their time and energy on games and could tackle real world dramatic problems but they are mistaken. I like to say that AI scientists experiment on games just like neuroscientists experimenting on rats.
 
 By "Solving games" I mean creating an AI better than any human player. The first impressive AI agent that could beat pro players was [DeepBlue](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)), a Chess AI that defeated Kasparov, the at-the-time world champion. DeepMind started with simple games, including [Atari Games](https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning/), the [Go Game](https://deepmind.com/research/alphago/) with the recent new ultimate version [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/), and now **Starcraft 2, known as one of the most difficult strategy game**
 The order of these achievements really matters. Indeed, games that got 'solved' by AI became more and more complex. By complex we mean that the set of possible actions became wider and wider, making the search of the best move nearly impossible.
 The number of possible boards in the chess game is not that huge. However, the number of possible boards in Go is insanely high. In Starcraft 2, the of possible states is hardly even computable. Indeed, the map, could be considered as a board where each cell would be a pixel where a unit could be standing, which makes it unfeasible to compute.
 
-The other key difference between those previous games and Starcraft 2 is that the **information** a player get is different. For board games we say that the information type is **perfect**, meaning that at a given moment of the game, you have perfect information regarding what your opponent's action, you can always look at your opponent's side of the board right. In Starcraft 2, information is most of the time **hidden**. By hidden we mean that both players don't see what the other is doing unless their unit meet eachother, we also call it **imperfect** information. Card games are also considered as imperfect information games as you can't see your opponent's card.
+The other key difference between those previous games and Starcraft 2 is that the **information** a player get is different. For board games we say that the information type is **perfect**, meaning that at a given moment of the game, you have perfect information regarding what your opponent's action, you can always look at your opponent's side of the board. In Starcraft 2, information is most of the time **hidden**. By hidden we mean that both players cannot see what the other is doing unless their unit meet eachother, we also call it **imperfect** information. Card games are also considered as imperfect information games as you can't see your opponent's card.
 As you lack knowledge about what your opponent is doing you must prepare yourselves for different potential outcomes and try to gather as much details about your oponent's strategy during the whole game in order to get the information that you are missing.
-
 
 {% capture fig_img %}
 ![Foo]({{ '/images/alphastar-diff.png' | relative_url }})
@@ -67,17 +67,21 @@ That said, you will understand why solving the Go Game was harder than solving C
 
 # But how ?
 
-Blizzard created on purpose an alternative version of the game that could be controled by AI, two years ago. They open sourced a set of python libraries and an enormous dataset of previously played games in order to let AI enthusiast get to play with Starcraft. That was the beginning of a long and exciting journey. Many scientists got into it, by solving minigames that Blizzard developed. The results after several months were promising but not excellent. The mini games were part of a typical Starcraft game but were far from being as complicated as an entire game. At that time the hype around the ability for AI to defeat Starcraft decreased quite significantly ... until recently, AlphaStar was born.
+Two years ago, Blizzard teamed up with DeepMind to create an alternative version of the game, in order to let whoever was interested to play with automation to play with Starcraft. They open sourced a set of python libraries and an enormous dataset of previously played games in order to be able to train model. That was the beginning of a long and exciting journey. Many scientists got into it, by solving minigames that Blizzard developed, the results after several months were promising but not excellent. The mini games were part of a typical Starcraft game but were far from being as complicated as an entire game. At that time the hype around the ability for AI to defeat Starcraft decreased quite significantly ... until recently, AlphaStar was born.
 
-December 19th 2018, DeepMing invited a pro player to play against their new AI they named AlphaStar. , that got defeated 5 0
+December 19th 2018, DeepMing invited a pro player to play against their new AI they named AlphaStar. He got defeated 5 0
 
 All these games have been solved using tree search method.
 From a given board, or state in the game, one must compute all the possible actions that it can take, then evaluate what would be the best action in order to win, in a close future, or in a longer term. A human player, when facing a situation that he experienced before, would use memory to recall what's the best action to avoid a loss, and to give himself, a chance to win the game.
 
 # How good is it though ?
 
-
-
+- WEIRD SIMPLE STRATEGY
+- WEIRD APM
+- NO PAPER. WAIT
+- CRITICISM
+- ANALYSIS OF THE GAMES. BEASTY QT
+- CONCLUSION
 
 
 More recently, DeepMind has been part the occidental trend: AI ethics. As many people, including AI researchers, got worried about the turn AI was taking in certain domains, many researchers and engineers dedicated their careers to use or develop AI in good ethical manners, that would help citizens' life in a non-lucratic way, rather shorting off jobs. This seems to be pretty promising for the next decades, we might see some potential huge changes in the way we think of AI, and particularly the way we want to deal with it in our everyday life.
