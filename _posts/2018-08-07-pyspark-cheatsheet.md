@@ -115,3 +115,51 @@ where KEY_A is the key to join A from and KEY_B is the key to join B from.
 df_joined = df_A.join(df_B, df_A.KEY_A == df_B.KEY_B, how='right')
 df_joined = df_A.join(df_B, df_A.KEY_A == df_B.KEY_B, how='left')
 ```
+
+# TO CLASSIFY
+
+### MAPPING DICT
+To apply a mapping to a column given a dataframe and a mapping as a dictionary
+```py
+from itertools import chain
+
+mapping = {
+  'old_value1': 'new_value1',
+  'old_value2': 'new_value2'
+}
+
+mapping_expr = F.create_map([F.lit(x) for x in chain(*mapping.items())])
+
+df.withColumn("mapped_valule", mapping_expr.getItem(F.col("value")))
+```
+
+## Where function
+
+### is equal / not equal
+```py
+# keep rows where column 'int_column' values are equal to integer 5.
+F.where(F.col('int_column') == 5)
+
+F.where(F.col('date_column') < '2018/12/05')
+
+# keep rows where column 'bool_column' values are equal to boolean True.
+F.where(F.col('bool_column') == True)
+```
+
+### is in / not in list
+```py
+my_list = [5, 23, 7]
+
+# keep rows
+F.where(F.col('value').isin(my_list))
+
+# skip rows Where
+F.where(~F.col('value').isin(my_list))
+```
+
+## Window
+
+```py
+from pyspark.sql.window import Window
+window = Window.partitionBy(df['category']).orderBy(df['revenue'].desc()).rangeBetween(-sys.maxsize, sys.maxsize)
+```
