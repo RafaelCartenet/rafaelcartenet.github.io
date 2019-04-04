@@ -163,3 +163,19 @@ F.where(~F.col('value').isin(my_list))
 from pyspark.sql.window import Window
 window = Window.partitionBy(df['category']).orderBy(df['revenue'].desc()).rangeBetween(-sys.maxsize, sys.maxsize)
 ```
+
+
+
+## Rename column
+df.withColumnRenamed("colName", "newColName")
+
+
+## Add time to timestamp
+```py
+df.withColumn('new_timestamp', F.col('timestamp') + F.expr('INTERVAL 2 HOURS'))
+```
+
+### CREATE UDF FUNCTION
+```py
+square_udf_int = udf(lambda z: square(z), IntegerType())
+```
