@@ -78,7 +78,7 @@ From a given board, or state in the game, one must compute all the possible acti
 
 # How good is it though ?
 
-So far in this article, I've been glorifying DeepMind's engineers and they really deserve it, what they have done is once again breathtaking. However, unfortunately, some people have been pointing out some small imperfections (that some perfectionists would claim HUGE), that it is nevertheless worth mentioning ! I would try to put to good use my knowledge about the game and the different articles and analysis I read to explain the 
+So far in this article, I've been glorifying DeepMind's engineers and they really deserve it, what they have done is once again breathtaking. However, unfortunately, some people have been pointing out some small imperfections (that some perfectionists would claim HUGE), that are  nevertheless worth mentioning ! I would try to put to good use my knowledge about the game and the different articles and analysis I read to explain the hecks
 
 - WEIRD SIMPLE STRATEGY
 - WEIRD APM
