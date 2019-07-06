@@ -29,4 +29,5 @@ header:
 
 ## Competitive Programming
 
+- [**ACM ICPC solutions**](https://github.com/RafaelCartenet/ACMICPC-Training): My different solutions for the past problems of ACM ICPC. https://icpc.baylor.edu/worldfinals/problems
 - [**Codingame solutions**](https://github.com/RafaelCartenet/Codingame): My different solutions for the Codingame platform. https://www.codingame.com/
