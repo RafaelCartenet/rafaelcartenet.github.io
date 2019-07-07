@@ -60,7 +60,7 @@ Familiar with: **Java**
 ## CV
 
 Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/CV_english.pdf)
+*English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
 *French version*: [CV]({{ site.url }}/download/CV_french.pdf)
 
 Update: 2019/07/01
