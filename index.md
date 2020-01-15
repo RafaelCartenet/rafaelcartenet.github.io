@@ -2,7 +2,7 @@
 title: 'Rafael Cartenet'
 layout: single
 author_profile: true
-excerpt: 'Machine-Learning R&D Engineer'
+excerpt: 'I am willing to relocate in Shanghai, from June 2020, and am open to new career opportunities.'
 header:
   overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -54,7 +54,7 @@ Familiar with: **Java**
 |----------|--------|
 | English  | Fluent |
 | French   | Fluent |
-| Mandarin | Intermediate (HSK3) |
+| Mandarin | Intermediate (preparing HSK4) |
 | Spanish  | Proficient |
 
 ## CV
