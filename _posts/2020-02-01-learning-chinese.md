@@ -27,7 +27,7 @@ One thing i found many times recommended on the internet were flashcards.
 
 | Front         | Back           |
 |:-------------:|:-------------:|
-| <img src="images/flashcard_front.png" alt="hi" class="img-responsive"/> | <img src="images/flashcard_back.png" alt="hi" class="inline"/> |
+| ![Foo]({{ '/images/flashcard_front.png' | relative_url }}) | <img src="images/flashcard_back.png" alt="hi" class="inline"/> |
 
 <img src="images/flashcard_front.png" alt="hi" class="img-responsive"/>
 
