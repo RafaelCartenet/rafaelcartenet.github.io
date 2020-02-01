@@ -10,7 +10,7 @@ header:
 ---
 
 
-My learning chinese journey has been lasting for years now and I would like to share my adventure as well as give some potential tips that you might find useful if you are getting started.
+My learning chinese journey has been lasting for years now and I would like to share my adventure as well as give some tips that you might find useful if you are getting started.
 
 <!--more-->
 
@@ -27,4 +27,4 @@ One thing i found many times recommended on the internet were flashcards.
 
 | Front         | Back           |
 |:-------------:|:-------------:|
-| <img src="images/flashcard_front.png" alt="hi" class="inline"/> | <img src="images/flashcard_back.png" alt="hi" class="inline"/> |
+| <img src="images/flashcard_front.png" alt="hi" class=""img-responsive""/> | <img src="images/flashcard_back.png" alt="hi" class="inline"/> |
