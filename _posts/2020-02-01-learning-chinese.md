@@ -14,6 +14,8 @@ My learning chinese journey has been lasting for years now and I would like to s
 
 <!--more-->
 
+[[_TOC_]]
+
 # Flashcards
 
 Learning a new language in general, takes time and energy, and constant practice. Chinese has different origin than my mother tongue (french) and it thus makes it harder to memorize the vocabulary that you will learn. Chinese's logic and etymology are completely different than latin based languages.
@@ -27,8 +29,9 @@ One thing i found many times recommended on the internet were flashcards.
 
 | Front         | Back           |
 |:-------------:|:-------------:|
-| ![Foo]({{ '/images/flashcard_front.png' | relative_url }}) | <img src="images/flashcard_back.png" alt="hi" class="inline"/> |
+| ![front]({{ '/images/flashcard_front.png' | relative_url }}) | ![back]({{ '/images/flashcard_back.png' | relative_url }})  |
 
-<img src="images/flashcard_front.png" alt="hi" class="img-responsive"/>
 
-<img src="images/flashcard_back.png" alt="hi" class="inline"/>
+## Flashcards generation
+
+## Available flashcards
