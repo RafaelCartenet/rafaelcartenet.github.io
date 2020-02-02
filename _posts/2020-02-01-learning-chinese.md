@@ -17,7 +17,7 @@ My learning chinese journey has been lasting for years now and I would like to s
 # Flashcards
 
 Learning a new language in general, takes time and energy, and constant practice. Chinese has different origin than my mother tongue (french) and it thus makes it harder to memorize the vocabulary that you will learn. Chinese's logic and etymology are completely different than latin based languages.
-I found myself struggling remembering some words that had no single similarities with the translations, which can be discouraging.
+I found myself struggling remembering some words that had no single similarities with the translations to the languages I know, which can be discouraging.
 
 I read a lot of articles about how to be more efficient at learning a language as it can be really time consuming. You can either spend more time on it or be more efficient at it (or both)!
 
@@ -60,7 +60,31 @@ Check out the github repository [_hanzi to anki_](https://github.com/RafaelCarte
 ## Available flashcards
 
 I have made available my flashcards so that everyone can use them.
+You can download the raw files and import them on the web or desktop applications.
 
 You can find them all on github, [_hsk flashcards_](https://github.com/RafaelCartenet/hsk_flashcards)
 
-I created flashcards for the books **HSK Standard Course** which is the book used in many chinese schools including mine.
+I created flashcards especially for the books **HSK Standard Course** which is the book used in many chinese schools including mine.
+
+Each HSK level has its own book (or more) and is divided in lessons. What I particularly like is to be able to revise only the vocabulary from the last lesson you had or all the lessons you attended till now, to be always up to date. If you just start preparing HSK4 and you get all the 600 flashcards at the same time to revise, you're gonna have a hard time. Instead, having only the words you learned during the previous course/lesson will make you feel confident.
+
+You will find below the link to the different flashcards sets.
+
+### HSK 3
+
+-
+-
+-
+-
+-
+-
+-
+
+### HSK 4
+
+-
+-
+-
+-
+-
+-
