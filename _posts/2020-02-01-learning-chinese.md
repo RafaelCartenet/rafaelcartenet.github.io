@@ -35,7 +35,7 @@ Here is an example, from the app _AnkiApp_.
 Once you chose a grade it goes to the next card and so on until you reviewed N cards, N being a setting that you can change, usually from 10 to 20.
 The good thing about it is that you'll tend to be given the cards that you did not memorize, i.e. the cards you gave _fail_ or _hard_. This way you won't spend too much time on the cards you know but mainly on the ones you don't, even if sometimes it will give you cards you graded _easy_ just to make sure you didn't forget it!
 
-There are plenty of flashcards app you can use online, most famous being ![**Anki**](https://apps.ankiweb.net) and ![**AnkiApp](https://www.ankiapp.com).
+There are plenty of flashcards app you can use online, most famous being [**Anki**](https://apps.ankiweb.net) and [**AnkiApp](https://www.ankiapp.com).
 They both have a mobile and desktop version with account management that lets you revise your own decks on both platforms.
 I personally prefer AnkiApp as it got a free version on MacOS, which is not the case for Anki, it's about 25 bucks.
 
@@ -43,10 +43,10 @@ Great thing about both those apps is that they usually have a nice "marketplace"
 
 ## Flashcards generation
 
-Check out the github repository ![_hanzi to anki_](https://github.com/RafaelCartenet/hanzi_to_anki)
+Check out the github repository [_hanzi to anki_](https://github.com/RafaelCartenet/hanzi_to_anki)
 
 ## Available flashcards
 
-I have made available my flashcards.
+I have made available my flashcards so that everyone can use them. 
 
-You can find them all on github, ![_hsk flashcards_](https://github.com/RafaelCartenet/hsk_flashcards)
+You can find them all on github, [_hsk flashcards_](https://github.com/RafaelCartenet/hsk_flashcards)
