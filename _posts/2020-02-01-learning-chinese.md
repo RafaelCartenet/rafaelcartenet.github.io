@@ -17,8 +17,7 @@ My learning chinese journey has been lasting for years now and I would like to s
 # Flashcards
 
 Learning a new language in general, takes time and energy, and constant practice. Chinese has different origin than my mother tongue (french) and it thus makes it harder to memorize the vocabulary that you will learn. Chinese's logic and etymology are completely different than latin based languages.
-
-I found myself struggling remembering some words that I could not find similar to my language, which is what you normally what you do when you learn a language close to your.
+I found myself struggling remembering some words that had no single similarities with the translations, which can be discouraging.
 
 I read a lot of articles about how to be more efficient at learning a language as it can be really time consuming. You can either spend more time on it or be more efficient at it (or both)!
 
