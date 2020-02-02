@@ -72,6 +72,8 @@ You will find below the link to the different flashcards sets.
 
 ### HSK 3
 
+{% include hsk3_download_link.html %}
+
 -
 -
 -
