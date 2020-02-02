@@ -72,7 +72,12 @@ You will find below the link to the different flashcards sets.
 
 ### HSK 3
 
-{% include hsk3_download_link.html %}
+<!-- {% include hsk3_download_link.html %}
+_includes/hsk3_download_link.html -->
+
+<a href="images/alphastar-diff.png" download>Click to Download</a>
+
+<a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/all_lessons.tsv" download>Click to Download</a>
 
 -
 -
