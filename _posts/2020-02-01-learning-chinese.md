@@ -10,7 +10,7 @@ header:
 ---
 
 
-My learning chinese journey has been lasting for years now and I would like to share my adventure as well as give some tips that you might find useful if you are getting started.
+My learning chinese journey has been lasting for years now and I would like to share my adventure (with a tech point of view) as well as give some tips that you might find useful if you are getting started.
 
 <!--more-->
 
@@ -35,18 +35,33 @@ Here is an example, from the app _AnkiApp_.
 Once you chose a grade it goes to the next card and so on until you reviewed N cards, N being a setting that you can change, usually from 10 to 20.
 The good thing about it is that you'll tend to be given the cards that you did not memorize, i.e. the cards you gave _fail_ or _hard_. This way you won't spend too much time on the cards you know but mainly on the ones you don't, even if sometimes it will give you cards you graded _easy_ just to make sure you didn't forget it!
 
-There are plenty of flashcards app you can use online, most famous being [**Anki**](https://apps.ankiweb.net) and [**AnkiApp](https://www.ankiapp.com).
+There are plenty of flashcards app you can use online, most famous being [**Anki**](https://apps.ankiweb.net) and [**AnkiApp**](https://www.ankiapp.com).
 They both have a mobile and desktop version with account management that lets you revise your own decks on both platforms.
 I personally prefer AnkiApp as it got a free version on MacOS, which is not the case for Anki, it's about 25 bucks.
 
-Great thing about both those apps is that they usually have a nice "marketplace", with a lot of people creating and sharing decks that you can download and instantly use on your device! For example, for HSK (official chinese language exam), you can find plenty of cards for the vocabulary (official vocabulary list). However as soon as you want to create your own cards
+Great thing about both those apps is that they usually have a nice "marketplace", with a lot of people creating and sharing decks that you can download and instantly use on your device! For example, for HSK (official chinese language exam), you can find plenty of cards for the vocabulary (official vocabulary list).
+
+However as soon as you want to create your own cards, it is getting quite tricky as writing them down through your phone or even through the web/desktop version can be time consuming. The great thing about making your own flashcards is that first, you choose the content you want to revise, if there is a word you want to memorize just make the flashcard and you'll naturally learn it in the next days with the new cards.
+
+
+That's why I created a small set of simple scripts that allow me to create flashcards automatically from a list of words that I want to memorize. In my case, learning chinese, what I needed was a way to take a list of chinese characters as input (also called hanzi), and generate all the flashcards so that I can directly review them on my phone.
+
+In the next chapter I'll quickly describe the script I developed. You can later find available flashcards that I created below.
 
 ## Flashcards generation
+
+I found that great python library called pinyin [**pinyin**](http://pinyin.lxyu.net) that gives you, from a given hanzi (你好): the translation (hello) and the pinyin (nĭ hăo) (phonetic translation in latin alphabet and keyboard input method).
+
+Once I get that I can simply write them to a tsv format (tabs separated values) that can thus be read by most Anki clients, including the two I mentioned earlier. I also added tags management, which lets you create some tags for each word so that you can later filter them by tags, which can be useful for example if you wanna differentiate verbs from noun, or differentiate the ones you got in textbook from the ones you found online etc.
+
+If you are interested to use it to create your own or to reuse it for something else feel free. Functions are generic and can be use for anything, not only hanzi.
 
 Check out the github repository [_hanzi to anki_](https://github.com/RafaelCartenet/hanzi_to_anki)
 
 ## Available flashcards
 
-I have made available my flashcards so that everyone can use them. 
+I have made available my flashcards so that everyone can use them.
 
 You can find them all on github, [_hsk flashcards_](https://github.com/RafaelCartenet/hsk_flashcards)
+
+I created flashcards for the books **HSK Standard Course** which is the book used in many chinese schools including mine.
