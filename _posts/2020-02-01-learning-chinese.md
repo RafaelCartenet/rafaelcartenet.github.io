@@ -20,7 +20,7 @@ Learning a new language in general, takes time and energy, and constant practice
 
 I found myself struggling remembering some words that I could not find similar to my language, which is what you normally what you do when you learn a language close to your.
 
-I read a lot of articles about how to be more efficient at learning a language as it can be really time consuming.
+I read a lot of articles about how to be more efficient at learning a language as it can be really time consuming. You can either spend more time on it or be more efficient at it (or both)!
 
 One thing i found many times recommended on the internet were flashcards. Flashcards are a simple method, a front and back card. Front is whatever you are trying to memorize, it could be a word, sentence but could also be a sound, an image etc. On the back is the solution, it's what should come to your mind when you see the front.
 
