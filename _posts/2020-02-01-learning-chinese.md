@@ -76,6 +76,10 @@ You will find below the link to the different flashcards sets.
 
 <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/all_lessons.tsv" download>Click to Download</a>
 
+
+<a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/all_lessons.tsv" download>
+  <img src="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/all_lessons.tsv" alt="W3Schools">
+</a>
 -
 -
 -
