@@ -68,31 +68,48 @@ I created flashcards especially for the books **HSK Standard Course** which is t
 
 Each HSK level has its own book (or more) and is divided in lessons. What I particularly like is to be able to revise only the vocabulary from the last lesson you had or all the lessons you attended till now, to be always up to date. If you just start preparing HSK4 and you get all the 600 flashcards at the same time to revise, you're gonna have a hard time. Instead, having only the words you learned during the previous course/lesson will make you feel confident.
 
+
+I created two tags,
+
+1. _textbook_ for all the words that are introduced from the textbook. All the cards without that tag are words I did not know during that lesson and that I added. They might be from HSK3 or less or totally different words.
+2. _LESSON.SUBLESSON_ in order to classify cards according to the lessons we had. Each lesson is covered in three parts (sub lessons)
+
 You will find below the link to the different flashcards sets.
 
 ### HSK 3
 
-<a href="images/alphastar-diff.png" download>Click to Download</a>
-
-<a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/all_lessons.tsv" download>Click to Download</a>
-
-
-<a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/all_lessons.tsv" download>
-  <img src="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/all_lessons.tsv" alt="W3Schools">
-</a>
--
--
--
--
--
--
--
+| Lesson      | Raw file                                                                                                                                      | AnkiWeb link
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---|
+| All lessons | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/all_lessons.tsv" download>Raw file</a> | / |
+| Lesson 1    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_1.tsv" download>Raw file</a>   | / |
+| Lesson 2    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_2.tsv" download>Raw file</a>   | / |
+| Lesson 3    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_3.tsv" download>Raw file</a>   | / |
+| Lesson 4    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_4.tsv" download>Raw file</a>   | / |
+| Lesson 5    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_5.tsv" download>Raw file</a>   | / |
+| Lesson 6    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_6.tsv" download>Raw file</a>   | / |
+| Lesson 7    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_7.tsv" download>Raw file</a>   | / |
+| Lesson 8    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_8.tsv" download>Raw file</a>   | / |
+| Lesson 9    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_9.tsv" download>Raw file</a>   | / |
+| Lesson 10   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_10.tsv" download>Raw file</a>  | / |
+| Lesson 11   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_11.tsv" download>Raw file</a>  | / |
+| Lesson 12   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_12.tsv" download>Raw file</a>  | / |
+| Lesson 13   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_13.tsv" download>Raw file</a>  | / |
+| Lesson 14   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_14.tsv" download>Raw file</a>  | / |
+| Lesson 15   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_15.tsv" download>Raw file</a>  | / |
+| Lesson 16   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_16.tsv" download>Raw file</a>  | / |
+| Lesson 17   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_17.tsv" download>Raw file</a>  | / |
+| Lesson 18   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_18.tsv" download>Raw file</a>  | / |
+| Lesson 19   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_19.tsv" download>Raw file</a>  | / |
+| Lesson 20   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_20.tsv" download>Raw file</a>  | / |
 
 ### HSK 4
 
--
--
--
--
--
--
+On going
+
+| Lesson      | Raw file                                                                                                                                      | AnkiWeb link
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Lesson 1    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_1.tsv" download>Raw file</a>   | / |
+| Lesson 2    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_2.tsv" download>Raw file</a>   | / |
+| Lesson 3    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_3.tsv" download>Raw file</a>   | / |
+| Lesson 4    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_4.tsv" download>Raw file</a>   | / |
+| Lesson 5    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_5.tsv" download>Raw file</a>   | / |
