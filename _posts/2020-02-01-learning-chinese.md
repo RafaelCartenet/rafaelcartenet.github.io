@@ -81,26 +81,26 @@ You will find below the link to the different flashcards sets.
 | Lesson      | Raw file                                                                                                                                      | AnkiWeb link
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---|
 | All lessons | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/all_lessons.tsv" download>Raw file</a> | / |
-| Lesson 1    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_1.tsv" download>Raw file</a>   | / |
-| Lesson 2    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_2.tsv" download>Raw file</a>   | / |
-| Lesson 3    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_3.tsv" download>Raw file</a>   | / |
-| Lesson 4    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_4.tsv" download>Raw file</a>   | / |
-| Lesson 5    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_5.tsv" download>Raw file</a>   | / |
-| Lesson 6    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_6.tsv" download>Raw file</a>   | / |
-| Lesson 7    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_7.tsv" download>Raw file</a>   | / |
-| Lesson 8    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_8.tsv" download>Raw file</a>   | / |
-| Lesson 9    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_9.tsv" download>Raw file</a>   | / |
-| Lesson 10   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_10.tsv" download>Raw file</a>  | / |
-| Lesson 11   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_11.tsv" download>Raw file</a>  | / |
-| Lesson 12   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_12.tsv" download>Raw file</a>  | / |
-| Lesson 13   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_13.tsv" download>Raw file</a>  | / |
-| Lesson 14   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_14.tsv" download>Raw file</a>  | / |
-| Lesson 15   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_15.tsv" download>Raw file</a>  | / |
-| Lesson 16   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_16.tsv" download>Raw file</a>  | / |
-| Lesson 17   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_17.tsv" download>Raw file</a>  | / |
-| Lesson 18   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_18.tsv" download>Raw file</a>  | / |
-| Lesson 19   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_19.tsv" download>Raw file</a>  | / |
-| Lesson 20   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lessons_20.tsv" download>Raw file</a>  | / |
+| Lesson 1    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_1.tsv" download>Raw file</a>   | / |
+| Lesson 2    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_2.tsv" download>Raw file</a>   | / |
+| Lesson 3    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_3.tsv" download>Raw file</a>   | / |
+| Lesson 4    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_4.tsv" download>Raw file</a>   | / |
+| Lesson 5    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_5.tsv" download>Raw file</a>   | / |
+| Lesson 6    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_6.tsv" download>Raw file</a>   | / |
+| Lesson 7    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_7.tsv" download>Raw file</a>   | / |
+| Lesson 8    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_8.tsv" download>Raw file</a>   | / |
+| Lesson 9    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_9.tsv" download>Raw file</a>   | / |
+| Lesson 10   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_10.tsv" download>Raw file</a>  | / |
+| Lesson 11   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_11.tsv" download>Raw file</a>  | / |
+| Lesson 12   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_12.tsv" download>Raw file</a>  | / |
+| Lesson 13   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_13.tsv" download>Raw file</a>  | / |
+| Lesson 14   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_14.tsv" download>Raw file</a>  | / |
+| Lesson 15   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_15.tsv" download>Raw file</a>  | / |
+| Lesson 16   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_16.tsv" download>Raw file</a>  | / |
+| Lesson 17   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_17.tsv" download>Raw file</a>  | / |
+| Lesson 18   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_18.tsv" download>Raw file</a>  | / |
+| Lesson 19   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_19.tsv" download>Raw file</a>  | / |
+| Lesson 20   | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk3/lesson_20.tsv" download>Raw file</a>  | / |
 
 ### HSK 4
 
@@ -108,8 +108,8 @@ On going
 
 | Lesson      | Raw file                                                                                                                                      | AnkiWeb link
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---|
-| Lesson 1    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_1.tsv" download>Raw file</a>   | / |
-| Lesson 2    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_2.tsv" download>Raw file</a>   | / |
-| Lesson 3    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_3.tsv" download>Raw file</a>   | / |
-| Lesson 4    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_4.tsv" download>Raw file</a>   | / |
-| Lesson 5    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lessons_5.tsv" download>Raw file</a>   | / |
+| Lesson 1    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lesson_1.tsv" download>Raw file</a>   | / |
+| Lesson 2    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lesson_2.tsv" download>Raw file</a>   | / |
+| Lesson 3    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lesson_3.tsv" download>Raw file</a>   | / |
+| Lesson 4    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lesson_4.tsv" download>Raw file</a>   | / |
+| Lesson 5    | <a href="https://raw.githubusercontent.com/RafaelCartenet/hsk_flashcards/master/output_flashcards/hsk4/lesson_5.tsv" download>Raw file</a>   | / |
