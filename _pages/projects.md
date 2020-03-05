@@ -28,14 +28,17 @@ header:
 
 ## Social Media Botting/Listening
 
-- [**Vitaminst, Instagram bot**](https://rafaelcartenet.github.io/Instagram-Botting/): I created a smart instagram bot able to target with high precision posts and create relevant comment in order to generate a feedback. Up to 250 new followers per day.
-- **CredTracker** (On going): I want to create a simple automation tool that would estimate one's population based on tweets, and backtest it with official polls.
+- [**Vitaminst, Instagram bot**](https://rafaelcartenet.github.io/Instagram-Botting/): I created a smart instagram bot able to target with high precision posts and create relevant comment in order to generate a feedback. Up to 250 new followers per day, deployed on 5 Raspberry Pi 3.
+- **CredTracker** (On going): I want to create a simple automation tool that would estimate one's population based on tweets over time, and backtest it with official polls.
 
 ## Retail
 
 - **Wifi-based flow analysis** (Company project): Designed and implemented a solution to collect, enrich and aggregate wifi location data in order to give insights to retail owners about key indicators such as, shops' attractiveness, customers' habits, live flows.
 - **Shopping mall affluence prediction** (Company project): Tested different LSTM classification models in order to predict the number of distinct customers of a shopping mall for a given day. Integrated OpenData features such as weather (+ weather forecast), public holidays, shopping mall events.
 
+## IOT
+
+- **building hyperisor** (Company project): Designed and implemented IOT data collection worfklow in order to demonstrate key indicators for buildings owners, occupation / comfort / energy consumption etc..
 
 ## Advanced Algorithms
 
