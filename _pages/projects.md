@@ -38,7 +38,7 @@ header:
 
 ## IOT
 
-- **building hyperisor** (Company project): Designed and implemented IOT data collection worfklow in order to demonstrate key indicators for buildings owners, occupation / comfort / energy consumption etc..
+- **Building hypervisor** (Company project): Designed and implemented IOT data collection worfklow + exposition worfklow in order to demonstrate key indicators for buildings owners, occupation / comfort / energy consumption etc..
 
 ## Advanced Algorithms
 
