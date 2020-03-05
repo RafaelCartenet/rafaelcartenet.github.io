@@ -9,15 +9,33 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-## Machine-Learning / AI
+## Computer Vision
+
+- [**Attention Gated LSTM**](https://github.com/RafaelCartenet/AttentionGatedLSTM): Implementation of an Attention Gated Model, for Youtube8m classification challenge.
+
+- [**OCR for bank cheques CMC7 codes**](https://github.com/RafaelCartenet/OCR-CMC7): My simple approach for bank cheques' CMC7 code extraction using SVM.
+- [**AlexNet Image Classification**](https://github.com/RafaelCartenet/AlexNetClassification): Implemented AlexNet CNN for image classification, on a set of given classes.
+
+## Time series
 
 - [**BLSTM Segmentation Model**](https://github.com/RafaelCartenet/BLSTMsegmentation): Sequential segmentation model, using BLSTM, implemented with TensorFlow.
-- [**Attention Gated LSTM**](https://github.com/RafaelCartenet/AttentionGatedLSTM): Implementation of an Attention Gated Model, for Youtube8m classification challenge.
 - [**LSTM Classification Model**](https://github.com/RafaelCartenet/LSTMsequence-classifier): Classification model, using LSTM, for sequential data of various length, "last frame" prediction, implemented with TensorFlow.
-- [**Sentimental Analysis GNB model**](https://github.com/RafaelCartenet/GaussianNBSentimentalAnalysis): Sentimental Analysis of IMDB movie reviews using Gaussian Naive Bayes model for binary classification.
-- [**OCR for bank cheques CMC7 codes**](https://github.com/RafaelCartenet/OCR-CMC7): My simple approach for bank cheques' CMC7 code extraction using SVM.
+
+## NLP / Computational linguistics
+
 - [**Occurrences-based MCQ Bot**](https://github.com/RafaelCartenet/MCQbot): Simple yet effective method to reply to Multiple Choice Questions.
-- [**AlexNet Image Classification**](https://github.com/RafaelCartenet/AlexNetClassification): Implemented AlexNet CNN for image classification, on a set of given classes.
+- [**Sentimental Analysis GNB model**](https://github.com/RafaelCartenet/GaussianNBSentimentalAnalysis): Sentimental Analysis of IMDB movie reviews using Gaussian Naive Bayes model for binary classification.
+
+## Social Media Botting/Listening
+
+- [**Vitaminst, Instagram bot**](https://rafaelcartenet.github.io/Instagram-Botting/): I created a smart instagram bot able to target with high precision posts and create relevant comment in order to generate a feedback. Up to 250 new followers per day.
+- **CredTracker** (On going): I want to create a simple automation tool that would estimate one's population based on tweets, and backtest it with official polls.
+
+## Retail
+
+- **Wifi-based flow analysis** (Company project): Designed and implemented a solution to collect, enrich and aggregate wifi location data in order to give insights to retail owners about key indicators such as, shops' attractiveness, customers' habits, live flows.
+- **Shopping mall affluence prediction** (Company project): Tested different LSTM classification models in order to predict the number of distinct customers of a shopping mall for a given day. Integrated OpenData features such as weather (+ weather forecast), public holidays, shopping mall events.
+
 
 ## Advanced Algorithms
 
@@ -25,7 +43,6 @@ header:
 - [**Optimized STMVN**](https://github.com/RafaelCartenet/MFCC_STMVN): Optimized normalization technique for sequential data.
 - [**Sequences Matcher**](https://github.com/RafaelCartenet/SequenceMatcher): Dynamic Programming based sequence matching tool.
 - [**Advanced algorithms implementation**](https://github.com/RafaelCartenet/Advanced-Algorithms): Several implementations: Dynamic Programming, Graph Theory etc.
-
 
 ## Competitive Programming
 
